@@ -79,7 +79,8 @@ f.速度为3000个数据量每秒时
 
 ![result13](Pictures/13.png)
 
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ## 项目结构
 
 - alsBatchRecommender.scala: ALS离线推荐，以及计算电影间相似度
